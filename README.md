@@ -58,9 +58,6 @@ Create an Azure Virtual Machine Windows 10, 4 vCPUs then create a username and p
 
 Install / Enable IIS in Windows WITH
 CGI and Common HTTP Features
-
-<img src="https://github.com/AndreRobinsonCC/osticket-prereqs/assets/133404844/4c15e6f7-5d5c-46f3-8cd0-a04ab6f706ba" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
 World Wide Web Services -> Application Development Features ->
 [X] CGI
 [X] Common HTTP Features
@@ -68,7 +65,7 @@ AND IIS Management Console
 Internet Information Services -> Web Management Tools -> IIS Management Console
 [X] IIS Management Console
 
-
+<img src="https://github.com/AndreRobinsonCC/osticket-prereqs/assets/133404844/4c15e6f7-5d5c-46f3-8cd0-a04ab6f706ba" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 </p>
 <p>
