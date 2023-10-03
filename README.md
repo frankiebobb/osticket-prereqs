@@ -72,8 +72,7 @@ Install I.S.S and Web Platform Installer.
 <br />
 
 <p>
-<img src="https://github.com/frankiebobb/post-install-config/assets/133404844/2fce3c79-0084-4f1a-a7d1-2ef44dd1a4d3" height="80%" width="80%"
-
+<img src="https://github.com/AndreRobinsonCC/post-install-config/assets/133404844/2fce3c79-0084-4f1a-a7d1-2ef44dd1a4d3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 4. Install PHP Manager for IIS
 4. Download and install PHP Manager for IIS
