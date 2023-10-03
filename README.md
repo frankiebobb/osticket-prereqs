@@ -108,4 +108,4 @@ Download and install MySQL
 
  Download and install HeidiSQL
 
- <img src="https://github.com/AndreRobinsonCC/osticket-prereqs/assets/133404844/ec484106-ec96-4c13-9aca-62a8c1f224e5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ ![download and instal HeidiSQL](https://github.com/meganhoose/osticket-prereqs/assets/142938638/1d608afe-cac5-4814-811b-789ffa53bbbb)
