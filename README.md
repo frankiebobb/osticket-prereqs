@@ -72,9 +72,9 @@ Install I.S.S and Web Platform Installer.
 <br />
 
 <p>
-<img src="https://github.com/AndreRobinsonCC/post-install-config/assets/133404844/2fce3c79-0084-4f1a-a7d1-2ef44dd1a4d3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/AndreRobinsonCC/osticket-prereqs/assets/133404844/4c15e6f7-5d5c-46f3-8cd0-a04ab6f706ba" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-4. Install PHP Manager for IIS
+
 4. Download and install PHP Manager for IIS
 
 ![download and install PHP manager for IIS](https://github.com/frankiebobb/osticket-prereqs/assets/142938638/3a561ab5-3122-4264-85cd-109113d32903)
