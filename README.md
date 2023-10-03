@@ -76,13 +76,12 @@ Install I.S.S and Web Platform Installer.
 
 
 4. Download and install PHP Manager for IIS
-
-![download and install PHP manager for IIS](https://github.com/frankiebobb/osticket-prereqs/assets/142938638/3a561ab5-3122-4264-85cd-109113d32903)
-
+![download and install PHP manager for IIS](https://github.com/meganhoose/osticket-prereqs/assets/142938638/3a561ab5-3122-4264-85cd-109113d32903)
 
 
 
-5. Install Rewrite Module
+
+7. Install Rewrite Module
 5. Download and install Rewrite Module
 
  ![download and install rewrite module](https://github.com/frankiebobb/osticket-prereqs/assets/142938638/69e1e252-4635-435a-b7f7-04f2693a1d1d)
