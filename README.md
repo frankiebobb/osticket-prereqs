@@ -54,11 +54,13 @@ Create a Resource Group
 Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
 When creating the VM, allow it to create a new virtual network.
 
-Create an Azure Virtual Machine Windows 10, 4 vCPUs
-- create a username and password
+Create an Azure Virtual Machine Windows 10, 4 vCPUs then create a username and password
 
 Install / Enable IIS in Windows WITH
 CGI and Common HTTP Features
+
+<img src="https://github.com/AndreRobinsonCC/osticket-prereqs/assets/133404844/4c15e6f7-5d5c-46f3-8cd0-a04ab6f706ba" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
 World Wide Web Services -> Application Development Features ->
 [X] CGI
 [X] Common HTTP Features
@@ -67,7 +69,7 @@ Internet Information Services -> Web Management Tools -> IIS Management Console
 [X] IIS Management Console
 
 
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
