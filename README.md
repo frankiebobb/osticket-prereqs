@@ -23,10 +23,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+ Create a resource group in Azure
+- Create a virtual machine in Azure
+- Create a virtual machine in Azure and login to the vm with Remote Desktop
+- Install and enable IIS in Windows
+- Install PHP Manager for IIS
+- Install Rewrite Module
+- Install PHP
+- Install VC
+- Install MySQL
+- Download and install PHP Manager for IIS
+- Download and install Rewrite Module
+- Download and install PHP
+- Download and install VC
+- Download and install MySQL
+- Open IIS as admin and register PHP in IIS
+- Install osTicket
+- Download and install osTicket
+- Enable extensions in IIS
+- Assign permissions
+- Install HeidiSQL
+- Download and install HeidiSQL
+- Continue setting up osTicket in browser
+
 
 <h2>Installation Steps</h2>
