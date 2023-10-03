@@ -65,35 +65,66 @@ AND IIS Management Console
 Internet Information Services -> Web Management Tools -> IIS Management Console
 [X] IIS Management Console
 
-<img src="https://github.com/frankiebobb/osticket-prereqs/assets/133404844/4c15e6f7-5d5c-46f3-8cd0-a04ab6f706ba" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://github.com/frankiebobb/osticket-prereqs/assets/133404844/4c15e6f7-5d5c-46f3-8cd0-a04ab6f706ba" height="80%" width="80%"
 
 Install I.S.S and Web Platform Installer.
 </p>
 <br />
 
 <p>
-<img src="https://github.com/frankiebobb/post-install-config/assets/133404844/2fce3c79-0084-4f1a-a7d1-2ef44dd1a4d3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/frankiebobb/post-install-config/assets/133404844/2fce3c79-0084-4f1a-a7d1-2ef44dd1a4d3" height="80%" width="80%"
 
-<p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+4. Install PHP Manager for IIS
+4. Download and install PHP Manager for IIS
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+   ![download and install PHP manager for IIS](https://github.com/frankiebobb/osticket-prereqs/assets/142938638/3a561ab5-3122-4264-85cd-109113d32903)
+
+@@ -62,25 +62,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
+
+
+
+5. Install Rewrite Module
+5. Download and install Rewrite Module
+
+ ![download and install rewrite module](https://github.com/frankiebobb/osticket-prereqs/assets/142938638/69e1e252-4635-435a-b7f7-04f2693a1d1d)
+
+
+
+
+6. Install PHP
+6. Download and install PHP
+  ![download PHP 7 3 8](https://github.com/frankiebobb/osticket-prereqs/assets/142938638/3d8c0fa4-5b9d-4726-a12a-2c44845b65ce)
+
+
+
+
+7. Install VC
+7. Download and install VC
+
+
+
+
+8. Install MySQL
+8. Download and install MySQL
+
+   ![download and install MySQL](https://github.com/frankiebobb/osticket-prereqs/assets/142938638/9d91d008-14c5-4515-8511-810436066229)
+
+@@ -95,7 +95,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
+
+
+
+10. Install osTicket
+10. Download and install osTicket
+    ![osTicket installed](https://github.com/frankiebobb/osticket-prereqs/assets/142938638/99769039-c0ed-4b15-b9f6-c4c3779eef60)
+
+
+@@ -113,7 +113,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
+
+
+
+13. Install HeidiSQL
+13. Download and install HeidiSQL
+
+
+    ![download and instal HeidiSQL](https://github.com/framnkiebobb/osticket-prereqs/assets/142938638/1d608afe-cac5-4814-811b-789ffa53bbbb)
