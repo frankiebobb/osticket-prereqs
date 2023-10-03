@@ -91,27 +91,17 @@ Download and install PHP
 
 
 
-7. Install VC
-7. Download and install VC
+Download and install VC
 
+after that, you
 
+Download and install MySQL
 
+ ![download and install MySQL](https://github.com/meganhoose/osticket-prereqs/assets/142938638/9d91d008-14c5-4515-8511-810436066229)
 
-8. Install MySQL
-8. Download and install MySQL
+ Download and install osTicket
 
-   ![download and install MySQL](https://github.com/frankiebobb/osticket-prereqs/assets/142938638/9d91d008-14c5-4515-8511-810436066229)
-
-@@ -95,7 +95,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
-
-
-
-10. Install osTicket
-10. Download and install osTicket
-    ![osTicket installed](https://github.com/frankiebobb/osticket-prereqs/assets/142938638/99769039-c0ed-4b15-b9f6-c4c3779eef60)
-
-
-@@ -113,7 +113,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
+ 
 
 
 
