@@ -78,9 +78,8 @@ Install I.S.S and Web Platform Installer.
 4. Install PHP Manager for IIS
 4. Download and install PHP Manager for IIS
 
-   ![download and install PHP manager for IIS](https://github.com/frankiebobb/osticket-prereqs/assets/142938638/3a561ab5-3122-4264-85cd-109113d32903)
+![download and install PHP manager for IIS](https://github.com/frankiebobb/osticket-prereqs/assets/142938638/3a561ab5-3122-4264-85cd-109113d32903)
 
-@@ -62,25 +62,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
