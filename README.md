@@ -106,6 +106,3 @@ Download and install MySQL
  ![osTicket installed](https://github.com/meganhoose/osticket-prereqs/assets/142938638/99769039-c0ed-4b15-b9f6-c4c3779eef60)
 
 
- Download and install HeidiSQL
-
- ![download and instal HeidiSQL](https://github.com/meganhoose/osticket-prereqs/assets/142938638/1d608afe-cac5-4814-811b-789ffa53bbbb)
